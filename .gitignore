@@ -1,0 +1,3 @@
+*.o
+a.out*
+lib.h.gch
