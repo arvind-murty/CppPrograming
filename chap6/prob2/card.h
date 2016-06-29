@@ -6,7 +6,7 @@
 
 enum Suit 
 {
-    CLUBS = 0,
+    CLUBS,
     DIAMONDS,
     HEARTS,
     SPADES,
