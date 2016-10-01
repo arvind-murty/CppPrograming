@@ -9685,7 +9685,6 @@ apotropaism
 apotropous
 apozem
 apozems
-app
 appair
 appall
 appalled
@@ -14242,6 +14241,7 @@ axoplasmic
 axoplasms
 axseed
 axseeds
+ay
 ayah
 ayahs
 ayahuasca
@@ -90310,7 +90310,6 @@ gyve
 gyved
 gyves
 gyving
-h
 ha
 haaf
 haafs
@@ -97270,7 +97269,6 @@ hoying
 hoyle
 hoyles
 hoys
-hp
 hr
 hrs
 hryvnia
@@ -147732,7 +147730,6 @@ ozonolysis
 ozonosphere
 ozonospheres
 ozonous
-p
 pa
 pablum
 pablums
@@ -161905,7 +161902,6 @@ pozzuolana
 pozzuolanas
 pozzuolanic
 pozzy
-pp
 ppd
 ppm
 ppr
@@ -242251,7 +242247,6 @@ xystos
 xysts
 xystus
 xystuses
-y
 ya
 yabber
 yabbered
